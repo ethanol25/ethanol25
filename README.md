@@ -1,6 +1,6 @@
 ## Hi there, I am ethanol25 👋
 
-# Full Stack Engineer
+### Full Stack Engineer
 
 I am a **Computer Science** student at the University of Nebraska-Lincoln
 
