@@ -4,9 +4,9 @@
 
 I am a **Computer Science** student at the University of Nebraska-Lincoln  
 Minoring in **Mathematics**
-
-### Languages/Frameworks
 ---
+### Languages/Frameworks
+
 I am *currently learning* Next.js  
 I am *proficient* in Javascript, React, and C++  
 I *know* Python, SQL, C, C#, PHP, jQuery and Java  
