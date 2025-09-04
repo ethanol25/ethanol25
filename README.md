@@ -2,13 +2,14 @@
 
 ### Full Stack Engineer
 
-I am a **Computer Science** student at the University of Nebraska-Lincoln
+I am a **Computer Science** student at the University of Nebraska-Lincoln  
 Minoring in **Mathematics**
 
 ### Languages/Frameworks
-I am *currently learning* Next.js
-I am *proficient* in Javascript, React, and C++
-I *know* Python, SQL, C, C#, PHP, jQuery and Java
+---
+I am *currently learning* Next.js  
+I am *proficient* in Javascript, React, and C++  
+I *know* Python, SQL, C, C#, PHP, jQuery and Java  
 
 
 ![Thumbs-up-Dale-Cooper](https://github.com/user-attachments/assets/aec4e816-4fa6-4259-81d8-8319cce88458)
