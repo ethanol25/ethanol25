@@ -11,8 +11,8 @@ I am *currently learning* Next.js
 I am *proficient* in Javascript, React, and C++  
 I *know* Python, SQL, C, C#, PHP, jQuery and Java  
 
+![dale-cooper](https://github.com/user-attachments/assets/23627b0b-6eac-455e-acfc-1dbb3ea6f967)
 
-![Thumbs-up-Dale-Cooper](https://github.com/user-attachments/assets/aec4e816-4fa6-4259-81d8-8319cce88458)
 
 Contact me at [ethandye04@gmail.com](mailto:ethandye04@gmail.com)
 <!--
