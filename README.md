@@ -14,7 +14,7 @@ I *know* Python, SQL, C, C#, PHP, jQuery and Java
 ![dale-cooper](https://github.com/user-attachments/assets/23627b0b-6eac-455e-acfc-1dbb3ea6f967)
 ---
 
-Contact me at [ethandye04@gmail.com](mailto:ethandye04@gmail.com)
+Contact me at [ethandye04@gmail.com](mailto:ethandye04@gmail.com) || [LinkedIn](https://www.linkedin.com/in/ethandye-/)
 <!--
 **ethanol25/ethanol25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
